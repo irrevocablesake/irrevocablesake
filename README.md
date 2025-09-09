@@ -24,9 +24,9 @@
 
 **FrameWorks:** Three.js
 
-## Ray Tracer The Next Week ( WIP )
+## Ray Tracer The Next Week
 
-![main image](https://github.com/irrevocablesake/Ray-Tracing-The-Next-Week/blob/master/images/render/heroRender.png)
+![main image](https://github.com/irrevocablesake/Ray-Tracing-The-Next-Week/blob/master/images/render/latestHeroRender.png)
 
 **Repository:** [Link](https://github.com/irrevocablesake/Ray-Tracing-The-Next-Week)
 
