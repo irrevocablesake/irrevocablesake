@@ -4,7 +4,7 @@
 
 ![main image](https://github.com/irrevocablesake/Quasar/blob/main/images/portfolio/motionBlur.png)
 
-**Repository:** <a href="https://github.com/irrevocablesake/Quasar#quasar---3d-rendering-engine">Repository Link</a>
+**Repository:** <a href='https://github.com/irrevocablesake/Quasar#quasar---3d-rendering-engine' target='_blank'>Repository Link</a>
 
 **Description:** Advanced Ray Tracer based on CPU, utilizing Light - Surface Interactions to create materials based just on math and contains features like: Motion Blur, Defocus Blur, Anti-Aliasing and much more. Visit link for in detail visualizations!
 
