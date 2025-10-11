@@ -1,5 +1,7 @@
 # Portfolio
 
+The following list is an overiew of my projects, each item has a **link** to the repository. Upon visiting the link one will notice that each repo has a well written **README.md** file describing the feature set of the respective project with visuals.
+
 ## Quasar
 
 ![main image](https://github.com/irrevocablesake/Quasar/blob/main/images/portfolio/motionBlur.png)
