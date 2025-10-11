@@ -2,7 +2,7 @@
 
 The following list is an overiew of my projects, each item has a **link** to the repository. Each repo contains a **README.md** file describing the feature set of the respective project with visuals. So, don't forget to scroll down and walk yourself through the project. 
 
-**Note:** Some README.md files have a lot of images, so the immages might keep lazy loading!
+**Note:** Some README.md files have a lot of images, so the images might keep lazy loading!
 
 ## Quasar
 
