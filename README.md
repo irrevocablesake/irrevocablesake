@@ -1,12 +1,12 @@
 # Portfolio
 
-The following list is an overiew of my projects, each item has a **link** to the repository. Upon visiting the link one will notice that each repo has a well written **README.md** file describing the feature set of the respective project with visuals.
+The following list is an overiew of my projects, each item has a **link** to the repository. Each repo contains a **README.md** file describing the feature set of the respective project with visuals. So, don't forget to scroll down and walk yourself through the project.
 
 ## Quasar
 
 ![main image](https://github.com/irrevocablesake/Quasar/blob/main/images/portfolio/motionBlur.png)
 
-**Repository:** <a href='https://github.com/irrevocablesake/Quasar#quasar---3d-rendering-engine' target='_blank'>Repository Link</a>
+**Repository:** <a href='https://github.com/irrevocablesake/Quasar'>Repository Link</a>
 
 **Description:** Advanced Ray Tracer based on CPU, utilizing Light - Surface Interactions to create materials based just on math and contains features like: Motion Blur, Defocus Blur, Anti-Aliasing and much more. Visit link for in detail visualizations!
 
@@ -18,7 +18,7 @@ The following list is an overiew of my projects, each item has a **link** to the
 
 ![main image](https://github.com/irrevocablesake/Grass-Field-Simulation/blob/master/images/hero.png)
 
-**Repository:** <a href='https://github.com/irrevocablesake/Grass-Field-Simulation#grass-field-simulation' target='_blank'>Repository Link</a>
+**Repository:** <a href='https://github.com/irrevocablesake/Grass-Field-Simulation'>Repository Link</a>
 
 **Description:** Grass Field Simulation, animation and rendering up to **500k** individual grass strands at a constant **> 60FP**S. Can be pushed upto **1 million** individual grass strands whilst maintaining stable **60FPS or more**
 
@@ -30,7 +30,7 @@ The following list is an overiew of my projects, each item has a **link** to the
 
 ![main_image](https://github.com/irrevocablesake/Procedural-3D-Maze-Generator/blob/main/images/final_render.png)
 
-**Repository:** <a href='https://github.com/irrevocablesake/Procedural-3D-Maze-Generator#procedural-3d-maze-generator' target='_blank'>Repository Link</a>
+**Repository:** <a href='https://github.com/irrevocablesake/Procedural-3D-Maze-Generator'>Repository Link</a>
 
 **Description:** This is a Procedural 3D Maze Generator, all of the things you see above are created in code. On click of a button you can create new mazes on the fly! 
 
@@ -42,7 +42,7 @@ The following list is an overiew of my projects, each item has a **link** to the
 
 ![main gif](https://github.com/irrevocablesake/Gradient-Themed-Maze-Generator/blob/master/images/main_gif.gif)
 
-**Repository:** <a href='https://github.com/irrevocablesake/Gradient-Themed-Maze-Generator#gradient-themed-maze-generator' target='_blank'>Repository Link</a>
+**Repository:** <a href='https://github.com/irrevocablesake/Gradient-Themed-Maze-Generator'>Repository Link</a>
 
 **Description:** This is a Gradient Themed DFS Maze Generator, you can generate mazes of any sizes from 1000 by 1000 to more, look at the animation of the maze being created, save it as an image or export the data to JSON ~ the last part is like a maze schematic that you can use in other files!
 
@@ -54,7 +54,7 @@ The following list is an overiew of my projects, each item has a **link** to the
 
 ![main_gif](https://github.com/irrevocablesake/The-Cyber-Cube/blob/main/images/the%20cube%20animation.gif)
 
-**Repository:** <a href='https://github.com/irrevocablesake/The-Cyber-Cube#rubiks-cube-simulator' target='_blank'>Repository Link</a>
+**Repository:** <a href='https://github.com/irrevocablesake/The-Cyber-Cube'>Repository Link</a>
 
 **Description:** This is a 3D Rubik's Cube Simulator, you can play with the Rubik's Cube, change it's size, spacing between the cubes or the colors of the faces and interact with it using a mouse
 
@@ -66,7 +66,7 @@ The following list is an overiew of my projects, each item has a **link** to the
 
 ![main_image](https://github.com/irrevocablesake/LandingPage/blob/main/testing_output.png)
 
-**Repository:** <a href='https://github.com/irrevocablesake/LandingPage#landing-page' target='_blank'>Repository Link</a>
+**Repository:** <a href='https://github.com/irrevocablesake/LandingPage'>Repository Link</a>
 
 **Description:** This is a 3D Landing Page / Art Gallery that I created, to reflect my skillset and one of my areas of interest that is "Creative Developer". You can pan around, zoom in / out and move around ~ the objects! 
 
@@ -79,7 +79,7 @@ The following list is an overiew of my projects, each item has a **link** to the
 ![main_one](https://github.com/irrevocablesake/website/blob/master/upload_image_one.png)
 ![main_one](https://github.com/irrevocablesake/website/blob/master/upload_image_two.png)
 
-**Repository:** <a href='https://github.com/irrevocablesake/website' target='_blank'>Repository Link</a>
+**Repository:** <a href='https://github.com/irrevocablesake/website'>Repository Link</a>
 
 **Description:** This was my personal blog, I had created to explain my favourite area of interest that is "Machine learning", "Neuroscience" and "Fun Projects"
 
