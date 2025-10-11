@@ -4,7 +4,7 @@
 
 ![main image](https://github.com/irrevocablesake/Quasar/blob/main/images/portfolio/motionBlur.png)
 
-**Repository:** [Link](https://github.com/irrevocablesake/Quasar?tab=readme-ov-file#quasar---3d-rendering-engine)
+**Repository:** [Link](https://github.com/irrevocablesake/Quasar#quasar---3d-rendering-engine)
 
 **Description:** Advanced Ray Tracer based on CPU, utilizing Light - Surface Interactions to create materials based just on math and contains features like: Motion Blur, Defocus Blur, Anti-Aliasing and much more. Visit link for in detail visualizations!
 
@@ -16,7 +16,7 @@
 
 ![main image](https://github.com/irrevocablesake/Grass-Field-Simulation/blob/master/images/hero.png)
 
-**Repository:** [Link](https://github.com/irrevocablesake/Grass-Field-Simulation?tab=readme-ov-file#grass-field-simulation)
+**Repository:** [Link](https://github.com/irrevocablesake/Grass-Field-Simulation#grass-field-simulation)
 
 **Description:** Grass Field Simulation, animation and rendering up to **500k** individual grass strands at a constant **> 60FP**S. Can be pushed upto **1 million** individual grass strands whilst maintaining stable **60FPS or more**
 
@@ -28,7 +28,7 @@
 
 ![main_image](https://github.com/irrevocablesake/Procedural-3D-Maze-Generator/blob/main/images/final_render.png)
 
-**Repository:** [Link](https://github.com/irrevocablesake/Procedural-3D-Maze-Generator/?tab=readme-ov-file#procedural-3d-maze-generator)
+**Repository:** [Link](https://github.com/irrevocablesake/Procedural-3D-Maze-Generator#procedural-3d-maze-generator)
 
 **Description:** This is a Procedural 3D Maze Generator, all of the things you see above are created in code. On click of a button you can create new mazes on the fly! 
 
@@ -40,7 +40,7 @@
 
 ![main gif](https://github.com/irrevocablesake/Gradient-Themed-Maze-Generator/blob/master/images/main_gif.gif)
 
-**Repository:** [Link](https://github.com/irrevocablesake/Gradient-Themed-Maze-Generator?tab=readme-ov-file#gradient-themed-maze-generator)
+**Repository:** [Link](https://github.com/irrevocablesake/Gradient-Themed-Maze-Generator#gradient-themed-maze-generator)
 
 **Description:** This is a Gradient Themed DFS Maze Generator, you can generate mazes of any sizes from 1000 by 1000 to more, look at the animation of the maze being created, save it as an image or export the data to JSON ~ the last part is like a maze schematic that you can use in other files!
 
@@ -52,7 +52,7 @@
 
 ![main_gif](https://github.com/irrevocablesake/The-Cyber-Cube/blob/main/images/the%20cube%20animation.gif)
 
-**Repository:** [Link](https://github.com/irrevocablesake/The-Cyber-Cube?tab=readme-ov-file#rubiks-cube-simulator)
+**Repository:** [Link](https://github.com/irrevocablesake/The-Cyber-Cube#rubiks-cube-simulator)
 
 **Description:** This is a 3D Rubik's Cube Simulator, you can play with the Rubik's Cube, change it's size, spacing between the cubes or the colors of the faces and interact with it using a mouse
 
@@ -64,7 +64,7 @@
 
 ![main_image](https://github.com/irrevocablesake/LandingPage/blob/main/testing_output.png)
 
-**Repository:** [Link](https://github.com/irrevocablesake/LandingPage/?tab=readme-ov-file#landing-page)
+**Repository:** [Link](https://github.com/irrevocablesake/LandingPage#landing-page)
 
 **Description:** This is a 3D Landing Page / Art Gallery that I created, to reflect my skillset and one of my areas of interest that is "Creative Developer". You can pan around, zoom in / out and move around ~ the objects! 
 
