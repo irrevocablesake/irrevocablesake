@@ -1,4 +1,4 @@
-# Portfolio-of-Projects
+# Portfolio
 
 ## Quasar
 
