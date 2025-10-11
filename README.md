@@ -1,12 +1,12 @@
 # Portfolio-of-Projects
 
-## Ray Tracer In a Weekend
+## Quasar
 
-![main image](https://github.com/irrevocablesake/Ray-Tracer-In-a-Weekend/blob/master/images/hero/render.png)
+![main image](https://github.com/irrevocablesake/Quasar/blob/main/images/portfolio/motionBlur.png)
 
-**Repository:** [Link](https://github.com/irrevocablesake/Ray-Tracer-In-a-Weekend/tree/master)
+**Repository:** [Link](https://github.com/irrevocablesake/Quasar)
 
-**Description:** Ray Tracer based on CPU, utilizing Light - Surface Interactions to create materials based just on math and contains features like: sampling, anti-aliasing and defocus blur. Visit link for in detail visualizations!
+**Description:** Advanced Ray Tracer based on CPU, utilizing Light - Surface Interactions to create materials based just on math and contains features like: Motion Blur, Defocus Blur, Anti-Aliasing and much more. Visit link for in detail visualizations!
 
 **Languages:** C++, Python
 
@@ -24,18 +24,6 @@
 
 **FrameWorks:** Three.js
 
-## Ray Tracer The Next Week
-
-![main image](https://github.com/irrevocablesake/Ray-Tracing-The-Next-Week/blob/master/images/render/latestHeroRender.png)
-
-**Repository:** [Link](https://github.com/irrevocablesake/Ray-Tracing-The-Next-Week)
-
-**Description:** Advanced Ray Tracer based on CPU, with more features like motion blur, lighting, Quadrilatel intersections and Textures. Visit link for in detail visualizations!
-
-**Languages:** C++, Python
-
-**FrameWorks:** None
-
 ## Procedural-3D-Maze-Generator
 
 ![main_image](https://github.com/irrevocablesake/Procedural-3D-Maze-Generator/blob/main/images/final_render.png)
@@ -48,17 +36,17 @@
 
 **Frameworks:** React JS, React Three Fiber, Zustand, Flask, Blender, SFML, Three JS
 
-## Landing Page
+## Gradient-Themed-Maze-Generator
 
-![main_image](https://github.com/irrevocablesake/LandingPage/blob/main/testing_output.png)
+![main gif](https://github.com/irrevocablesake/Gradient-Themed-Maze-Generator/blob/master/images/main_gif.gif)
 
-**Repository:** [Link](https://github.com/irrevocablesake/LandingPage/)
+**Repository:** [Link](https://github.com/irrevocablesake/Gradient-Themed-Maze-Generator)
 
-**Description:** This is a 3D Landing Page / Art Gallery that I created, to reflect my skillset and one of my areas of interest that is "Creative Developer". You can pan around, zoom in / out and move around ~ the objects! 
+**Description:** This is a Gradient Themed DFS Maze Generator, you can generate mazes of any sizes from 1000 by 1000 to more, look at the animation of the maze being created, save it as an image or export the data to JSON ~ the last part is like a maze schematic that you can use in other files!
 
-**Languages:** Javascript, HTML, CSS
+**Languages:** C++, JSON
 
-**Frameworks:** React JS, React Three Fiber, Blender, Magica Voxel, Three JS
+**Frameworks:** SFML
 
 ## Rubik's Cube Simulator
 
@@ -72,17 +60,17 @@
 
 **Frameworks:** Three JS
 
-## Gradient-Themed-Maze-Generator
+## Landing Page
 
-![main gif](https://github.com/irrevocablesake/Gradient-Themed-Maze-Generator/blob/master/images/main_gif.gif)
+![main_image](https://github.com/irrevocablesake/LandingPage/blob/main/testing_output.png)
 
-**Repository:** [Link](https://github.com/irrevocablesake/Gradient-Themed-Maze-Generator)
+**Repository:** [Link](https://github.com/irrevocablesake/LandingPage/)
 
-**Description:** This is a Gradient Themed DFS Maze Generator, you can generate mazes of any sizes from 1000 by 1000 to more, look at the animation of the maze being created, save it as an image or export the data to JSON ~ the last part is like a maze schematic that you can use in other files!
+**Description:** This is a 3D Landing Page / Art Gallery that I created, to reflect my skillset and one of my areas of interest that is "Creative Developer". You can pan around, zoom in / out and move around ~ the objects! 
 
-**Languages:** C++, JSON
+**Languages:** Javascript, HTML, CSS
 
-**Frameworks:** SFML
+**Frameworks:** React JS, React Three Fiber, Blender, Magica Voxel, Three JS
 
 ## My Blog ( Current in-active )
 
