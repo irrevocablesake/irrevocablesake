@@ -16,13 +16,25 @@ The following list is an overiew of my projects, each item has a **link** to the
 
 **FrameWorks:** None
 
+## Ryutai ( WIP )
+
+![main image](https://raw.githubusercontent.com/irrevocablesake/Ryutai/refs/heads/master/images/Later.png)
+
+**Repository:** <a href='https://github.com/irrevocablesake/Ryutai'>Repository Link</a>
+
+**Description:** Fluid Simulation based on Navier Stokes Equation 
+
+**Languages:** C++
+
+**FrameWorks:** Vulkan, ImGuI, RenderDoc ( Debugging )
+
 ## Foliage Lab ( WIP )
 
 ![main image](https://github.com/irrevocablesake/FoliageLab/blob/master/images/Simulation.png)
 
 **Repository:** <a href='https://github.com/irrevocablesake/FoliageLab'>Repository Link</a>
 
-**Description:** Advanced Ray Tracer based on CPU, utilizing Light - Surface Interactions to create materials based just on math and contains features like: Motion Blur, Defocus Blur, Anti-Aliasing and much more. Visit link for in detail visualizations!
+**Description:** Advanced Grass Fied Simulation Lab
 
 **Languages:** C++
 
