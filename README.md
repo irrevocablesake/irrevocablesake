@@ -48,7 +48,7 @@ The projects themselves span from **Three.js** to **Vulkan** to pure C++, additi
 
 **Repository:** <a href='https://github.com/irrevocablesake/FoliageLab'>Repository Link</a>
 
-**Description:** Advanced Grass Fied Simulation Lab
+**Description:** Advanced Grass Field Simulation Lab
 
 **Languages:** C++, Shader - SLANG
 
