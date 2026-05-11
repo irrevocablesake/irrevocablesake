@@ -36,7 +36,7 @@ The following list is an overiew of my projects, each item has a **link** to the
 
 **Description:** Fluid Simulation based on Navier Stokes Equation 
 
-**Languages:** C++
+**Languages:** C++, Shader - SLANG
 
 **FrameWorks:** Vulkan, ImGuI, RenderDoc ( Debugging )
 
@@ -48,7 +48,7 @@ The following list is an overiew of my projects, each item has a **link** to the
 
 **Description:** Advanced Grass Fied Simulation Lab
 
-**Languages:** C++
+**Languages:** C++, Shader - SLANG
 
 **FrameWorks:** Vulkan, ImGuI, RenderDoc ( Debugging )
 
