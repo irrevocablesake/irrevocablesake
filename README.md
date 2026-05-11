@@ -16,6 +16,18 @@ The following list is an overiew of my projects, each item has a **link** to the
 
 **FrameWorks:** None
 
+## Grass Field Simulation ( Procedural )
+
+![main image](https://github.com/irrevocablesake/Grass-Field-Simulation/blob/master/images/hero.png)
+
+**Repository:** <a href='https://github.com/irrevocablesake/Grass-Field-Simulation'>Repository Link</a>
+
+**Description:** Grass Field Simulation, animation and rendering up to **500k** individual grass strands at a constant **> 60FP**S. Can be pushed upto **1 million** individual grass strands whilst maintaining stable **60FPS or more**
+
+**Languages:** Javascript, GLSL
+
+**FrameWorks:** Three.js
+
 ## Ryutai ( WIP )
 
 ![main image](https://raw.githubusercontent.com/irrevocablesake/Ryutai/refs/heads/master/images/Later.png)
@@ -40,17 +52,17 @@ The following list is an overiew of my projects, each item has a **link** to the
 
 **FrameWorks:** Vulkan, ImGuI, RenderDoc ( Debugging )
 
-## Grass Field Simulation ( Procedural )
+## Gradient-Themed-Maze-Generator
 
-![main image](https://github.com/irrevocablesake/Grass-Field-Simulation/blob/master/images/hero.png)
+![main gif](https://github.com/irrevocablesake/Gradient-Themed-Maze-Generator/blob/master/images/main_gif.gif)
 
-**Repository:** <a href='https://github.com/irrevocablesake/Grass-Field-Simulation'>Repository Link</a>
+**Repository:** <a href='https://github.com/irrevocablesake/Gradient-Themed-Maze-Generator'>Repository Link</a>
 
-**Description:** Grass Field Simulation, animation and rendering up to **500k** individual grass strands at a constant **> 60FP**S. Can be pushed upto **1 million** individual grass strands whilst maintaining stable **60FPS or more**
+**Description:** This is a Gradient Themed DFS Maze Generator, you can generate mazes of any sizes from 1000 by 1000 to more, look at the animation of the maze being created, save it as an image or export the data to JSON ~ the last part is like a maze schematic that you can use in other files!
 
-**Languages:** Javascript, GLSL
+**Languages:** C++, JSON
 
-**FrameWorks:** Three.js
+**Frameworks:** SFML
 
 ## Procedural-3D-Maze-Generator
 
@@ -63,18 +75,6 @@ The following list is an overiew of my projects, each item has a **link** to the
 **Languages:** Python, Javascript, HTML, CSS, C++
 
 **Frameworks:** React JS, React Three Fiber, Zustand, Flask, Blender, SFML, Three JS
-
-## Gradient-Themed-Maze-Generator
-
-![main gif](https://github.com/irrevocablesake/Gradient-Themed-Maze-Generator/blob/master/images/main_gif.gif)
-
-**Repository:** <a href='https://github.com/irrevocablesake/Gradient-Themed-Maze-Generator'>Repository Link</a>
-
-**Description:** This is a Gradient Themed DFS Maze Generator, you can generate mazes of any sizes from 1000 by 1000 to more, look at the animation of the maze being created, save it as an image or export the data to JSON ~ the last part is like a maze schematic that you can use in other files!
-
-**Languages:** C++, JSON
-
-**Frameworks:** SFML
 
 ## Rubik's Cube Simulator
 
