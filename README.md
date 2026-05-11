@@ -16,6 +16,18 @@ The following list is an overiew of my projects, each item has a **link** to the
 
 **FrameWorks:** None
 
+## Foliage Lab ( WIP )
+
+![main image](https://github.com/irrevocablesake/FoliageLab/blob/master/images/Simulation.png)
+
+**Repository:** <a href='https://github.com/irrevocablesake/FoliageLab'>Repository Link</a>
+
+**Description:** Advanced Ray Tracer based on CPU, utilizing Light - Surface Interactions to create materials based just on math and contains features like: Motion Blur, Defocus Blur, Anti-Aliasing and much more. Visit link for in detail visualizations!
+
+**Languages:** C++
+
+**FrameWorks:** Vulkan, ImGuI, RenderDoc ( Debugging )
+
 ## Grass Field Simulation ( Procedural )
 
 ![main image](https://github.com/irrevocablesake/Grass-Field-Simulation/blob/master/images/hero.png)
