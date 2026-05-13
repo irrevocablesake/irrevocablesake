@@ -18,18 +18,6 @@ The projects themselves span from **Three.js** to **Vulkan** to pure C++, additi
 
 **FrameWorks:** None
 
-## Grass Field Simulation ( Procedural )
-
-![main image](https://github.com/irrevocablesake/Grass-Field-Simulation/blob/master/images/hero.png)
-
-**Repository:** <a href='https://github.com/irrevocablesake/Grass-Field-Simulation'>Repository Link</a>
-
-**Description:** Grass Field Simulation, animation and rendering up to **500k** individual grass strands at a constant **> 60FP**S. Can be pushed upto **1 million** individual grass strands whilst maintaining stable **60FPS or more**
-
-**Languages:** Javascript, GLSL
-
-**FrameWorks:** Three.js
-
 ## Ryutai ( WIP )
 
 ![main image](https://raw.githubusercontent.com/irrevocablesake/Ryutai/refs/heads/master/images/banner.png)
@@ -41,6 +29,18 @@ The projects themselves span from **Three.js** to **Vulkan** to pure C++, additi
 **Languages:** C++, Shader - SLANG
 
 **FrameWorks:** Vulkan, ImGuI, RenderDoc ( Debugging )
+
+## Grass Field Simulation ( Procedural )
+
+![main image](https://github.com/irrevocablesake/Grass-Field-Simulation/blob/master/images/hero.png)
+
+**Repository:** <a href='https://github.com/irrevocablesake/Grass-Field-Simulation'>Repository Link</a>
+
+**Description:** Grass Field Simulation, animation and rendering up to **500k** individual grass strands at a constant **> 60FP**S. Can be pushed upto **1 million** individual grass strands whilst maintaining stable **60FPS or more**
+
+**Languages:** Javascript, GLSL
+
+**FrameWorks:** Three.js
 
 ## Foliage Lab ( WIP )
 
