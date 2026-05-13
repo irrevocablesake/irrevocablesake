@@ -32,7 +32,7 @@ The projects themselves span from **Three.js** to **Vulkan** to pure C++, additi
 
 ## Ryutai ( WIP )
 
-![main image](https://raw.githubusercontent.com/irrevocablesake/Ryutai/refs/heads/master/images/Later.png)
+![main image](https://raw.githubusercontent.com/irrevocablesake/Ryutai/refs/heads/master/images/banner.png)
 
 **Repository:** <a href='https://github.com/irrevocablesake/Ryutai'>Repository Link</a>
 
