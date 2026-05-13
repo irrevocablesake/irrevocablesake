@@ -18,7 +18,7 @@ The projects themselves span from **Three.js** to **Vulkan** to pure C++, additi
 
 **FrameWorks:** None
 
-## Ryutai ( WIP )
+## Ryutai 
 
 ![main image](https://raw.githubusercontent.com/irrevocablesake/Ryutai/refs/heads/master/images/banner.png)
 
