@@ -44,7 +44,9 @@ The projects themselves span from **Three.js** to **Vulkan** to pure C++, additi
 
 ## Nuno ( WIP )
 
-![main image](https://raw.githubusercontent.com/irrevocablesake/Nuno/refs/heads/master/images/ClothSimulatorBannerWIP.png)
+<!-- ![main image](https://raw.githubusercontent.com/irrevocablesake/Nuno/refs/heads/master/images/ClothSimulatorBannerWIP.png) -->
+
+https://github.com/user-attachments/assets/f31b3443-d2d1-44f3-98a3-4316194200c1
 
 **Repository:** <a href='https://github.com/irrevocablesake/Nuno'>Repository Link</a>
 
