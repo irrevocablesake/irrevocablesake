@@ -2,7 +2,7 @@
 
 The following list is an overiew of my projects, each item has a **link** to the repository. Each repo contains a **README.md** file describing the feature set of the respective project with visuals ( images / videos ). So, don't forget to scroll down and walk yourself through the project. 
 
-The projects themselves span from **Three.js** to **Vulkan** to pure C++, additionally I also invested some time in learning [**OpenGL**](https://github.com/irrevocablesake/openGL)
+The projects themselves span from **Three.js** to **Vulkan** to pure C++, additionally I also invested some time in learning [**OpenGL**](https://github.com/irrevocablesake/openGL). Apart from this, I try to contribute to [**OSS**](https://projects.blender.org/irrevocableSake?tab=activity), and also interested in [**3D modelling & Animations**](https://www.artstation.com/pratikhadawale_sake)
 
 **Note:** Some README.md files have a lot of images, so the images might keep lazy loading!
 
